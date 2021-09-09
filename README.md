@@ -1,9 +1,15 @@
 # Normal-GestureGame 
-This is Fun Project Created .
-If YOU want to Contribute and to add some extra feature you can do it.
+###  This is Project change the way of Gamming .<br>
+In Present era ,children  spend lot of time in playing Game, that effect their healths .<br>
+This Project Change the way of Normal Gamming into Gesture Gamming .Here Player can play game with Gestures.<br>
+That help them Physically and menatlly 
 
-<b>Steps To Run Project </b>
-<ul>
+
+### If You Like the project Then  ⭐ Star The project .
+### You can Contribute this project -
+
+#### <b>Steps To Run Project </b>
+ <ul>
   <li> If you not install library then install it using flowing command <br>
   pip install numpy<br>
   pip install pyautogui<br>
@@ -23,9 +29,9 @@ If YOU want to Contribute and to add some extra feature you can do it.
   Make pull request .
   </li>
   
-  <b> You can also edit Readme.md file <b> 
   
-  Have a nice day ! happy coding 
+  <br>
+  _Have a nice day ! happy coding_ 
   
   
 </ul>
